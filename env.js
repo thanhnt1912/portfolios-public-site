@@ -1,0 +1,1 @@
+window.env = {"VITE_PUBLIC_SEO_AUTHOR":"Nguyễn Trác Thành","VITE_PUBLIC_SEO_TITLE":"NTT-Portfolio","VITE_PUBLIC_SEO_DESCRIPTION":"Nguyen Trac Thanh portfolio","VITE_PUBLIC_SEO_IMAGE":"","VITE_PUBLIC_SEO_URL":"nguyentracthanh.site","VITE_PUBLIC_SEO_KEYWORDS":"","VITE_PUBLIC_SEO_EMAIL_CONTACT":""}
